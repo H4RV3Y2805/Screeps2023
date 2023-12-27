@@ -1,3 +1,5 @@
+// Role Upgrader
+
 var roleUpgrader = {
 
     /** @param {Creep} creep **/
